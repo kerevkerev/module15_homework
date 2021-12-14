@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: url("https://krot.info/uploads/posts/2020-01/1579698706_23-p-foni-s-kartami-mira-90.jpg")
+    no-repeat center ;
+}
+.wrapper {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1200px;
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.flag {
+  margin: 2px;
+  width: 180px;
+  height: 120px;
+  border: solid 1px;
+}
